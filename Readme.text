@@ -1,0 +1,20 @@
+the perpose is easy :
+creating an prject using solid principles that have a login / register page
+where people after login will be redirected to admin page.
+
+
+solid rules:
+Single Responsibility Principle (SRP):
+This principle states that each class or module should have only one reason to change. In other words, it should have a single responsibility.
+
+Open-Closed Principle (OCP):
+ This principle states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. It means that you should be able to extend the behavior of a system without modifying its existing code.
+
+Liskov Substitution Principle (LSP):
+ This principle states that objects of a superclass should be replaceable with objects of its subclasses without causing any errors or unexpected behavior.
+
+Interface Segregation Principle (ISP):
+ This principle states that no client should be forced to depend on methods it does not use. In other words, interfaces should be designed with the client's needs in mind.
+
+Dependency Inversion Principle (DIP):
+ This principle states that high-level modules should not depend on low-level modules. Instead, both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions.
